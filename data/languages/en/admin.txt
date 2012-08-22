@@ -1,0 +1,186 @@
+form.button.title.default = Prześlij
+form.button.title.cancel = Anuluj
+form.button.title.save = Zapisz
+form.button.title.add = Dodaj
+
+
+
+admin.menu.content = Treść
+admin.menu.users = Użytkownicy
+admin.menu.config = Konfiguracja
+admin.menu.themes = Grafika
+admin.menu.backup = Backup
+admin.menu.trash = Kosz
+admin.menu.system = System
+
+admin.message.success = Zmiany przebiegły pomyślnie
+admin.message.save = Pomyślnie zapisano element
+admin.message.add = Pomyślnie dodano element
+admin.message.delete = Pomyślnie skasowano element
+
+
+
+admin.content.tpl.pages = Podstrony
+admin.content.tpl.languages = Języki
+admin.content.tpl.trash = Kosz
+admin.content.tpl.settings = Ustawienia
+admin.content.tpl.functions = Funkcje
+admin.content.tpl.editimages = Edycja zdjęcia
+admin.content.tpl.description = Opis
+admin.content.tpl.addlanguage = Dodaj język
+admin.content.tpl.edit = Edycja
+admin.content.tpl.help = pomoc
+admin.content.tpl.sort = sortuj
+admin.content.tpl.showall = rozwiń
+admin.content.tpl.emptytrash = Opróżnij kosz
+admin.content.tpl.addnews = Dodaj aktualność
+admin.content.tpl.newslist = Lista aktualności
+
+
+admin.content.common.tpl.pageslist = Lista podstron
+admin.content.common.tpl.addimages = Dodaj zdjęcia
+admin.content.common.tpl.imagelistingalery = Lista zdjęć w galerii
+admin.content.common.tpl.help = Pomoc
+admin.content.common.tpl.languages = Języki
+admin.content.common.tpl.trashcontent = Zawartość kosza
+admin.content.common.tpl.configuration = Konfiguracja
+admin.content.common.tpl.edit = Edycja
+
+
+admin.config.tpl.constant = Stała
+admin.config.tpl.addconstanttoconfig = Dodaj stałą do Configu
+
+
+admin.users.ctpl.admins = Administratorzy
+admin.users.ctpl.users = Użytkownicy
+admin.users.ctpl.authorization = Uprawnienia
+admin.users.tpl.adduser = Dodaj użytkownika
+admin.users.ctpl.settings = Ustawienia
+admin.users.tpl.addtypeofauth = Dodaj typ uprawnienia
+admin.users.tpl.edit = Edycja
+admin.users.tpl.help = Pomoc
+
+admin.users.common.tpl.typesofauth = Typ uprawnień
+admin.users.common.tpl.extension = Rozszeżenie
+admin.users.common.tpl.regexp = Reguła
+
+
+admin.themes.tpl.graphictemplates = Szablony graficzne
+admin.themes.tpl.widgets = Widżety
+admin.themes.tpl.settings = Ustawienia
+admin.themes.tpl.edit = Edycja
+admin.themes.tpl.help = Pomoc
+
+admin.themes.controller.image = Obrazek
+admin.themes.controller.css = Plik CSS
+admin.themes.controller.js = Plik JS
+admin.themes.controller.doc  = Plik TXT
+admin.themes.controller.imagedescription = Obrazek wgrywany do templaya który następnie może być wstawiony w grafikę
+admin.themes.controller.cssdescription = Plik CSS autoamtycznie dołączany do templata
+admin.themes.controller.jsdescription = Plik JS autoamtycznie dołączany do templata
+admin.themes.controller.txtdescription = Plik TXT autoamtycznie dołączany do templata
+
+admin.themes.commontpl.graphicstyles = Style graficzne
+admin.themes.common.tpl.widgets = Widżety
+
+admin.index.tpl.icons = ikonki
+
+
+admin.content.controller.newlangname = Nazwa nowego języka
+admin.content.controller.giveelementname = "Podaj nazwe elementu!"
+admin.content.controller.elementname = Nazwa elementu
+admin.content.controller.elementtype = Typ elementu
+admin.content.controller.linkname = Nazwa linku
+admin.content.controller.adresstaken = "Podany adres jest już zajęty!"
+admin.content.controller.sitetitle = Tytuł strony w sekcji Title, jeżeli nie zostanie podany, będize generowany automatycznie.
+admin.content.controller.descriptioninsection = Opis w sekcji description w metatagach. Genrrowany automatycznie gdy jest pusty
+admin.content.controller.keywords = Słowa kluczowe w sekcji keywords w metatagach. Generowany automatycznie gdy jest pusty.
+admin.content.controller.sitetags = Tagi strony, pokazywane jako system tagów
+admin.content.controller.chosentemplate = Nadaje wybrany template elementowi
+admin.content.controller.adresstaken = "Podany adres jest już zajęty!"
+admin.content.controller.image = Obrazek
+admin.content.controller.imagedescription = Obrazek przypisany do elementu, może być pokazywany na przykład w sliderze lub jako minaitura w aktualności
+admin.content.controller.name = Nazwa
+admin.content.controller.description = Opis
+admin.content.controller.newstitle = Tytuł aktualności
+admin.content.controller.template = Szablon graficzny
+admin.content.controller.addnews = Dodaj aktualność
+admin.content.controller.tags = Tagi
+admin.content.controller.date = Data
+admin.content.controller.datedescription = Data dodania aktualności wyświetlana na stronie 
+admin.content.controller.tplfilename = Nazwa pliku tpl
+
+
+admin.config.controller.name = "Nazwa"
+admin.config.controller.givename = "Podaj nazwe!"
+admin.config.controller.value = "Wartość"
+admin.config.controller.addvalue = "Wpisz wartość!"
+admin.config.controller.shortdescription = "Opis Skrócony"
+admin.config.controller.adddescription = "Podaj opis!"
+admin.config.controller.description = "Opis"
+
+
+admin.login.controller.login = "Zaloguj się"
+admin.login.controller.addusername = "Podaj nazwe użytkownika!"
+admin.login.controller.autogener = "Wygeneruje się automatycznie jeżeli nie zostanie podane!"
+admin.login.controller.addpassword = "Podaj hasło!"
+admin.login.controller.username = "Nazwa użytkownika"
+admin.login.controller.password = "Hasło"
+admin.login.controller.rememberme = "Pamiętaj mnie 3 dni!"
+
+
+admin.mainconfig.controller.addvalue = "Wpisz wartość!"
+admin.mainconfig.controller.value = "Wartość"
+
+
+admin.themes.controller.templatename = "Nazwa szablonu"
+admin.themes.controller.addelementname = "Podaj nazwe elementu!"
+admin.themes.controller.addvalue = "Nazwa widżetu"
+admin.themes.controller.tplfilename = "Nazwa pliku tpl"
+
+
+
+
+admin.users.controller.usertype = "Typ użytkownika"
+admin.users.controller.permits = "Nadaje odpowiednie uprawnienia"
+admin.users.controller.email = "Adres email"
+admin.users.controller.giveemail = "Podaj email!"
+admin.users.controller.givecorrectemail = "Podaj poprawny email!"
+admin.users.controller.emailtaken = "Podany email jest zajęty!"
+admin.users.controller.password = "Hasło"
+admin.users.controller.autogener = "Wygeneruje się automatycznie jeżeli nie zostanie podane!"
+admin.users.controller.toshortpass = "Podane hasło jest zbyt krótkie!"
+admin.users.controller.diffpasswords = "Podane hasła są różne!"
+admin.users.controller.repeatpassword = "Powtórz hasło"
+admin.users.controller.username = "Nazwa użytkownika"
+admin.users.controller.shownname = "Nazwa wyświetlana"
+admin.users.controller.kowal = "Kowal"
+admin.users.controller.name = "Imię"
+admin.users.controller.jan = "Jan"
+admin.users.controller.surname = "Nazwisko"
+admin.users.controller.kowalski = "Kowalski"
+admin.users.controller.nametype = "Nazwa typu"
+admin.users.controller.addname = "Podaj nazwe typu uprawnień!"
+admin.users.controller.powersfor = "Uprawnienia dla"
+admin.users.controller.powerssetting = "Ustawiamy uprawnienia np: dla strony lub systemu CMS"
+admin.users.controller.extension = "Rozszerzenie"
+admin.users.controller.powersextension = "Ustawiamy rozszeżenie uprawnień o inne"
+admin.users.controller.expressionregular = "Wyrażenie regularne"
+admin.users.controller.addformula = "Wpisujemy wzór dla klas dla których udzielamy zezwolenia"
+admin.users.controller.addregularformula = "Wpisz wyrażenie regularne!"
+admin.users.controller.youruserdata = "Twoje dane użytkownika"
+admin.users.controller.empty = "W przypadku pozostawienia pustego pola hasło pozostanie bez zmian!"
+admin.users.controller.usertype = "Typ użytkownika"
+
+
+admin.img.upload.controller.imagetobig = "zdjęcie jest zbyt duże"
+admin.img.upload.controller.wrongfileformat = "nieprawidłowy format pliku"
+admin.img.upload.controller.uploadimage = "musisz wgrać zdjęcie"
+
+
+admin.install.controller.next = Dalej
+
+admin.notify.update = Dostępne są nowe aktualizacje dla systemu!
+
+
+

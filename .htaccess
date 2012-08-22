@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on 
+RewriteRule !(\.(ico|css|js|txt|htc|gif|jpg|jpeg|png|swf|mp3|mp4))$ front.php [L,QSA]
+</IfModule>

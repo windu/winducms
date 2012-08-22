@@ -1,0 +1,1 @@
+Tutaj bedzie obszerna pomoc dla systemu tresci
